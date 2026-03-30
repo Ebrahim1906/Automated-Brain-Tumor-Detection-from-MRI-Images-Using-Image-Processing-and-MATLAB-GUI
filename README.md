@@ -1,0 +1,2 @@
+# Automated-Brain-Tumor-Detection-from-MRI-Images-Using-Image-Processing-and-MATLAB-GUI
+->MATLAB-based GUI developed for automated brain tumor detection from MRI images using image processing techniques.-> Noise filtering, edge detection, and segmentation used to identify abnormal brain regions and estimate tumor size. ->User-friendly system that assists medical analysis and can be enhanced with machine learning and 3D MRI processing.
